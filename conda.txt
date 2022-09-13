@@ -1,0 +1,7 @@
+Before running a notebook, remember to 
+    conda activate d2l
+and after finishing it
+    conda deactivate
+    
+The env d2l contains essentially necessary
+basic data science packages (including pytorch).
